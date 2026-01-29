@@ -1,44 +1,84 @@
-📊 Credit Card Analytics Dashboard (Power BI)
+# 📊 Credit Card Analytics Dashboard  
+**Power BI Project**
 
-📌 Project Overview
-This project analyzes credit card customer and transaction data using Power BI to uncover insights related to customer demographics, transaction behavior, and revenue trends.
+---
 
-🎯 Objectives
-Analyze customer profiles by age, gender, and income.
-Track transaction performance and revenue trends
-Identify high-performing card categories
-Enable interactive analysis using slicers and KPIs
+## 🔍 Project Overview
+This project focuses on analyzing **credit card customer and transaction data** using **Power BI** to uncover insights related to customer demographics, spending behavior, and overall revenue performance.  
+The objective was to convert raw CSV datasets into **interactive, business-ready dashboards** for decision-making.
 
-🛠 Tools & Technologies
-Power BI
-DAX
-CSV datasets
+---
 
-📈 Dashboards Included
-Customer Profile Dashboard
-Age group, gender, and income analysis
-Customer distribution by card category
-Transaction Performance Dashboard
-Total revenue & transaction KPIs
-Weekly revenue trend
-Revenue by card category
+## 🎯 Project Objectives
+- Analyze customer profiles based on **age, gender, income, and card category**
+- Track **total revenue, transaction volume, and average transaction value**
+- Identify **high-performing card categories**
+- Understand **weekly revenue trends**
+- Enable interactive analysis using **slicers and KPIs**
 
-📄 Project Files
-Credit_Card_Dashboard.pbix – Power BI dashboard file
-Credit_Card_PowerBI_Project_Overview.pdf – Project overview, approach & insights
+---
 
-🧠 Key Skills Demonstrated
-Data cleaning & preparation
-Data modeling (one-to-many relationships)
-DAX measures & KPIs
-Interactive dashboard design
+## 🛠️ Tools & Technologies
+- **Power BI**
+- **DAX**
+- **CSV Datasets**
 
-## 📸 Dashboard Preview
-![Customer Dashboard]("C:\Users\vishv\Pictures\Screenshots\Screenshot 2026-01-29 200244.png"
-)
-![Transaction Dashboard]("C:\Users\vishv\Pictures\Screenshots\Screenshot 2026-01-29 200317.png")
+---
 
+## 📈 Dashboards Developed
 
-👤 Author
-Vishv Sonar
-Aspiring Data Analyst
+### 1️⃣ Customer Profile Dashboard
+- Customer distribution by **Age Group**, **Gender**, and **Income Group**
+- Customer count by **Card Category**
+- Interactive slicers for demographic-based filtering
+
+---
+
+### 2️⃣ Transaction Performance Dashboard
+- **KPIs**:  
+  - Total Revenue  
+  - Total Transactions  
+  - Average Transaction Amount  
+- **Weekly Revenue Trend**
+- **Revenue by Card Category**
+- Interactive slicers for **Card Category** and **Quarter**
+
+---
+
+## 📄 Project Files
+- **`Credit_Card_Dashboard.pbix`**  
+  → Power BI dashboard file containing all visuals and measures  
+- **`Credit_Card_PowerBI_Project_Overview.pdf`**  
+  → One-page document explaining approach, insights, and challenges  
+
+---
+
+## 🧠 Key Skills Demonstrated
+- Data cleaning and preparation  
+- Data modeling using **one-to-many relationships**  
+- DAX measures and calculations  
+- KPI design and dashboard formatting  
+- Business insight generation  
+
+---
+
+## 🚧 Challenges Faced
+- Handled **inconsistent column naming** from CSV files that caused DAX errors  
+- Fixed **data type mismatches** to ensure correct aggregations  
+- Improved dashboard readability through consistent alignment and formatting  
+
+---
+
+## 📌 Key Insights
+- Certain **card categories contribute significantly higher revenue**
+- **Weekly revenue trends** highlight transaction peaks and slow periods
+- **Average transaction value** provides deeper insight into customer spending behavior  
+
+---
+
+## 👤 Author
+**Vishv Sonar**  
+Aspiring Data Analyst 
+
+## 📬 Contact
+Feel free to connect with me on **LinkedIn** for feedback, collaboration, or opportunities.
