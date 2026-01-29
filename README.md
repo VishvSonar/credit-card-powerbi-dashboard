@@ -33,6 +33,12 @@ Data modeling (one-to-many relationships)
 DAX measures & KPIs
 Interactive dashboard design
 
+## 📸 Dashboard Preview
+![Customer Dashboard]("C:\Users\vishv\Pictures\Screenshots\Screenshot 2026-01-29 200244.png"
+)
+![Transaction Dashboard]("C:\Users\vishv\Pictures\Screenshots\Screenshot 2026-01-29 200317.png")
+
+
 👤 Author
 Vishv Sonar
 Aspiring Data Analyst
